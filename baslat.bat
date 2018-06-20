@@ -1,4 +1,4 @@
-title CybBot - Creator By: Cem#3658
+title MigBot - Creator By: Cem#3658
 echo off
 cls
 :a
