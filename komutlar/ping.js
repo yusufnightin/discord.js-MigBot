@@ -7,5 +7,5 @@ exports.run = (bot, msg, args) => {
 exports.help = {
   name: 'ping',
   usage: 'ping',
-  description: 'Pings the bot to check its connection speed.'
+  description: 'Botun gecikme süresini gösterir.'
 };
