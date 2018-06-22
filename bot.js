@@ -79,4 +79,4 @@ client.elevation = message => {
 // 'MUTE_MEMBERS',
 // 'DEAFEN_MEMBERS',
 
-client.login(ayarlar.token)
+client.login(process.env.BOT_TOKEN)
